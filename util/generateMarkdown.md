@@ -96,4 +96,4 @@
 
 ## ©️ License & Copyright
 
-Licensed under the [MIT License](License_Copyright/LICENSE)
+Licensed under the [MIT License](./License_Copyright/LICENSE)
