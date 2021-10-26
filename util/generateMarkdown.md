@@ -29,7 +29,7 @@
 
 <h2 id='acceptance-criteria'>🤝 Acceptance-Criteria</h2>
 
-    GIVEN a command-line application that accepts user input<br>
+    GIVEN a command-line application that accepts user input.<br>
     WHEN: I am prompted for information about my application repository<br>
     THEN: a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
     WHEN: I enter my project title<br>
