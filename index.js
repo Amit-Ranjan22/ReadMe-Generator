@@ -3,7 +3,18 @@ const fs = require('fs');
 
 const generateReadme = ({projectTitle,description,installation,usage,license,contribution,username,email}) =>
     `
-    # 🌟${projectTitle}🌟
+    ## Project-Title:
+
+## 🌟${projectTitle}🌟
+
+---
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![Codecov](https://img.shields.io/codecov/c/github/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![GitHub issues](https://img.shields.io/github/issues/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![npm](https://img.shields.io/npm/v/inquirer?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![License: MIT](https://img.shields.io/badge/License-${license}-yellow.svg?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
 
 ## 📚 Table Of Content :
 
@@ -85,6 +96,13 @@ const generateReadme = ({projectTitle,description,installation,usage,license,con
 <h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>${username}</a></h3>
 
 <h3>📩 Email: <a href='https://mail.google.com/'>${email}</a></h3>
+
+---
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](./License_Copyright/LICENSE)
+
 
 `;
 
