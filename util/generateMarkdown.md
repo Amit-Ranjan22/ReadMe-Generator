@@ -1,4 +1,15 @@
-# 🌟get title from user in command line🌟
+## Project-Title:
+
+## 🌟get title from user in command line🌟
+
+---
+
+[![GitHub repo size](https://img.shields.io/github/repo-size/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![Codecov](https://img.shields.io/codecov/c/github/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![GitHub issues](https://img.shields.io/github/issues/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![npm](https://img.shields.io/npm/v/inquirer?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Amit-Ranjan22/ReadMe-Generator?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/Amit-Ranjan22/ReadMe-Generator.git)
 
 ## 📚 Table Of Content :
 
@@ -29,7 +40,7 @@
 
 <h2 id='acceptance-criteria'>🤝 Acceptance-Criteria</h2>
 
-    GIVEN a command-line application that accepts user input.<br>
+    GIVEN a command-line application that accepts user input<br>
     WHEN: I am prompted for information about my application repository<br>
     THEN: a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
     WHEN: I enter my project title<br>
@@ -80,3 +91,9 @@
 <h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>get github user-name from user in command line</a></h3>
 
 <h3>📩 Email: <a href='https://mail.google.com/'>get email from user in command line</a></h3>
+
+---
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](License_Copyright/LICENSE)
