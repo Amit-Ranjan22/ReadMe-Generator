@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const generateReadme = ({projectTitle,description,installation,usage,license,contribution,username,email}) =>
     `
-    ## Project-Title:
+## Project-Title:
 
 ## 🌟${projectTitle}🌟
 
@@ -101,7 +101,7 @@ const generateReadme = ({projectTitle,description,installation,usage,license,con
 
 ## ©️ License & Copyright
 
-Licensed under the [MIT License](./License_Copyright/LICENSE)
+Licensed under the [MIT License](License_Copyright/LICENSE)
 
 
 `;
@@ -165,7 +165,7 @@ inquirer
     {
         type: 'input',
         name:  'email',
-        message: 'Please enter your emial-id:\n'
+        message: 'Please enter your email-id:\n'
     }
 ])
 .then((response) => {
