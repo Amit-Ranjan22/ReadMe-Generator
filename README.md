@@ -33,7 +33,7 @@
 
 ---
 
-## Walkthrough Video Of The Application
+## 🎬 Walkthrough Video Of The Application
 
     Plese visit the link provided below for a video walkthrough of the application :
 
