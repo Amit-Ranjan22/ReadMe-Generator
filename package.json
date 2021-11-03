@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "dynamically generated readme.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test command required"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit-Ranjan22/ReadMe-Generator.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Amitabh Ranjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amit-Ranjan22/ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/Amit-Ranjan22/ReadMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
